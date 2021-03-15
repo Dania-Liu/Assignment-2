@@ -241,7 +241,9 @@
 #link {
   text-align: center;
   font-size: 120%;
+  position: -webkit-sticky;
   position: sticky;
+  bottom: 0;
 }
 
 #body {
