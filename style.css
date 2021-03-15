@@ -122,7 +122,7 @@
   margin-left: 50px;
 }
 
-#firstimg{
+#firstimg {
   float: left;
   clear: left;
   height: 13%;
@@ -130,7 +130,7 @@
   margin-right: 20px;
 }
 
-#secondimg{
+#secondimg {
   float: left;
   clear: left;
   height: 16%;
@@ -138,7 +138,7 @@
   margin-right: 20px;
 }
 
-#thirdimg{
+#thirdimg {
   float: left;
   clear: left;
   height: 33%;
@@ -146,7 +146,7 @@
   margin-right: 20px;
 }
 
-#fourthimg{
+#fourthimg {
   float: left;
   clear: left;
   height: 11%;
@@ -154,7 +154,7 @@
   margin-right: 20px;
 }
 
-#fifthimg{
+#fifthimg {
   float: left;
   clear: left;
   height: 11%;
@@ -162,7 +162,7 @@
   margin-right: 20px;
 }
 
-#sixthimg{
+#sixthimg {
   float: left;
   clear: left;
   height: 13%;
@@ -170,7 +170,7 @@
   margin-right: 20px;
 }
 
-#seventhimg{
+#seventhimg {
   float: left;
   clear: left;
   height: 29%;
@@ -178,7 +178,7 @@
   margin-right: 20px;
 }
 
-#eighthimg{
+#eighthimg {
   float: left;
   clear: left;
   height: 22%;
@@ -193,9 +193,9 @@
 }
 
 #right {
-position: absolute;
-right: 50px;
-width: 900px;
+  position: absolute;
+  right: 50px;
+  width: 900px;
 }
 
 #polo {
@@ -230,7 +230,7 @@ width: 900px;
   right: 5%;
 }
 
-#dance  {
+#dance {
   position: absolute;
   width: 16%;
   height: 30%;
